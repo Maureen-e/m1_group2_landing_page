@@ -1,0 +1,16 @@
+poubelle
+
+header {
+	border-bottom: 2px solid #fff;
+	height: 520px;
+	background-image:url(https://img.ohmymag.com/article/1280/decoration/avoir-un-bureau-range_5bb238f5f8003a6e937c619faebd8080129f9301.jpg);
+	background-image: center;
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+
+<h1>Bienvenue sur ma présentation !</h1>
+
+couleur bordeaux : 7c0044
+jaune : 
